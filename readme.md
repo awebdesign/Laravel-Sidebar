@@ -1,7 +1,6 @@
 # Laravel Sidebar
 
 [![GitHub release](https://img.shields.io/github/release/Maatwebsite/Laravel-Sidebar.svg?style=flat)](https://packagist.org/packages/maatwebsite/laravel-sidebar)
-[![Travis](https://img.shields.io/travis/Maatwebsite/Laravel-Sidebar.svg?style=flat)](https://travis-ci.org/Maatwebsite/Laravel-Sidebar)
 [![Scrutinizer](https://img.shields.io/scrutinizer/g/Maatwebsite/Laravel-Sidebar.svg?style=flat)](https://github.com/Maatwebsite/Laravel-Sidebar)
 [![Packagist](https://img.shields.io/packagist/dd/Maatwebsite/Laravel-Sidebar.svg?style=flat)](https://packagist.org/packages/maatwebsite/laravel-sidebar)
 [![Packagist](https://img.shields.io/packagist/dm/Maatwebsite/Laravel-Sidebar.svg?style=flat)](https://packagist.org/packages/maatwebsite/laravel-sidebar)
